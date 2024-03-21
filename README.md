@@ -1,2 +1,2 @@
-# Projeto-Integrador2
+# Projeto-Integrador
 Sistema de gestão de estoque
